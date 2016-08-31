@@ -22,7 +22,6 @@ object WordCount {
     .saveAsTextFile("wordcount.txt") //save as a text file
     
     sc.stop() // stop the Spark Context
-
         
     
   
